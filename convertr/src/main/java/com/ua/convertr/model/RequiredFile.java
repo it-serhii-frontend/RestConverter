@@ -4,7 +4,7 @@ public class RequiredFile {
 
     private String name;
 
-    public RequiredFile(String name, String url) {
+    public RequiredFile(String name) {
         this.name = name;
     }
 
